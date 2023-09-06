@@ -2,8 +2,11 @@
 
 
 
+
+<!--
 ### Github stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SsagatroNN&theme=synthwave)
+-->
 
 <!--
 **SsagatroNN/SsagatroNN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
