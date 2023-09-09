@@ -12,7 +12,7 @@ const Degree = async () => {
 
 ### Skills
 
-- <a href="https://emoji.gg/emoji/2829_VSCode"><img src="https://cdn3.emoji.gg/emojis/2829_VSCode.png" width="16px" height="16px" alt="VSCode"></a> C++, Java, SystemVerilog, Python, JavaScript, Go,
+- <a href="https://emoji.gg/emoji/2829_VSCode"><img src="https://cdn3.emoji.gg/emojis/2829_VSCode.png" width="16px" height="16px" alt="VSCode"></a>  C++, Java, SystemVerilog, Python, JavaScript, Go,
 - 🛠️ Spring, React, Espressif, Flutter, Make
 - 💽 SQL, SQlite, MongoDB
 - and more !
