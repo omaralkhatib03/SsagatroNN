@@ -1,15 +1,3 @@
----
-title: "This is a Cosmo Themes YAML"
-author: "Type your name here"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    theme: synth
-    toc: yes
-    toc_float:
-      collapsed: true
----
-
 ### Hi there, I'm Omar Alkhatib 👋
 
 <p style="font-family:'Lucida Console', 'Courier New', monospace;">
