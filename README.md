@@ -16,6 +16,7 @@ const Degree = async () => {
 - 🛠️ Spring, React, Espressif, Flutter, Make
 - 💽 SQL, SQlite, MongoDB
 - and more !
+  
 ### Contact
 
 <p style="font-family:'Lucida Console', 'Courier New', monospace;">
@@ -29,14 +30,14 @@ const Degree = async () => {
 
 <!-- <p style="font-family:'Lucida Console', 'Courier New', monospace;"> More details are in the form of the React Component below.</p> -->
 
-### Intrests
+### Interests
 ```js
 export default function Omar_Alkhatib() {
-  const [status, setStatus] = useState("Always Working...");
+ 
 
   return (
-      <div className="Intrests">
-        <h2>Intrests</h2>
+      <div className="Interests">
+        <h2>Interests</h2>
         <ul>
           <li>Embedded Systems</li>
           <li>Web Development</li>
@@ -70,6 +71,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- <div className="Tools">
+ const [status, setStatus] = useState("Always Working...");
         <h2>Tools</h2>
         <ul>
           <li>C++</li>
